@@ -1,0 +1,10 @@
+The lack of an abstract and a keyword in the publication makes this situation 
+difficult to provide accurate search results and it prevents the researcher to review the publication quickly. 
+This study proposes a method to generate keywords and an abstract from the text that can be used in academic studies. 
+In the previous studies, k-NN and fuzzy CCG methods have been generally used to solve this problem.
+ Nonetheless, the structures of words have not been examined and semantic analysis has not been used for solving this problem. 
+ In this study, the sections of the publication are also divided into parts such as the references, the introduction and the methodology.
+ Each section is graded differently so that the word in each section has a different score. Furthermore, NLP methods were used to analyze 
+ texts and phrases, removing prepositions and conjunctions.
+ 
+
